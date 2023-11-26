@@ -18,7 +18,7 @@ Dependencies: Install required packages listed in requirements.txt.
 Installation
 
 Clone the repository:
-git clone https://github.com/your-username/flask-note-app.git
+git clone (https://github.com/PeterO-13/flask-Login.git)
 cd flask-note-app
 
 Create a virtual environment:
