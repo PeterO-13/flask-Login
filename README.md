@@ -1,3 +1,8 @@
+The application serves as a simple note-taking platform allowing users to create accounts, log in, and create notes associated with their accounts. 
+It uses Flask, SQLAlchemy for database management, Flask-Login for user session management, and provides basic functionalities such as creating, viewing,
+and deleting notes for authenticated users.
+
+
 Features
 User Authentication: Users can create accounts and log in securely.
 Create Notes: Authenticated users can create new notes with a title and content.
